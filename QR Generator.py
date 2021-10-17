@@ -152,3 +152,7 @@ save_btn.config(command=save_qr)
 
 
 win.mainloop()
+
+
+
+# Created and Programmed by Rihan Ahmed
